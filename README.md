@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction - Machine Learning Project
+# 🏠 Car Price Prediction - Machine Learning Project
 
 ## 🚀 Project Overview
 End-to-End Machine Learning pipeline for price prediction using Linear & Ridge Regression, covering full data preprocessing, feature engineering, model evaluation, and performance comparison.
